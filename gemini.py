@@ -3,7 +3,7 @@
 # import google.generativeai as genai
 #
 # # Configure API Key
-# api = "AIzaSyAJTiF-VNr8EPGlLtRl2-Moq3ei64n9Jmw"  # Ensure your API key is valid
+# api = "Enter Your API key"  # Ensure your API key is valid
 # genai.configure(api_key=api)
 #
 # # Function to upload a file
