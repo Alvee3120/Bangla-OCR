@@ -4,7 +4,7 @@ import google.generativeai as genai
 from openpyxl import load_workbook
 
 # Configure API Key
-api = "AIzaSyAbm28u6RhnluENo9LoOPKLLjblF8h8BfE"  # Ensure your API key is valid
+api = "Enter Your API key"  # Ensure your API key is valid
 genai.configure(api_key=api)
 
 # Function to upload a file
